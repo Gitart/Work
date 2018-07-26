@@ -68,5 +68,6 @@ server {
 обрабатывает только внутренние запросы сервера Nginx и запросы X-Accel-Redirect, то есть внешние запросы    
 в этот location не попадут.
 
+https://www.opennet.ru/base/net/nginx_x_accel_redirect.txt.html
 
 
